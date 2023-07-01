@@ -14,12 +14,12 @@ This project aims to create a financial balance sheet with an added layer of CSS
 
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/VERIFIED-git/balance-sheet-project.git
+git clone https://github.com/VERIFIED-git/balance-sheet.git
 ```
 
 2. Navigate to the project directory.
 ```
-cd balance-sheet-project
+cd balance-sheet
 ```
 
 3. Open the `index.html` file in your preferred web browser.
