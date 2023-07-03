@@ -2,6 +2,9 @@
 
 This project aims to create a financial balance sheet with an added layer of CSS styling. By utilizing CSS pseudo selectors, you will have the ability to dynamically change the style of specific HTML elements based on user interactions.
 
+
+<img width="495" alt="Screenshot_balancesheet_git" src="https://github.com/VERIFIED-git/balance-sheet/assets/123449884/4dff231b-3d95-4c11-8869-0fe17a0d04a9">
+
 ## Features
 
 - **CSS Pseudo Selectors**: The project leverages CSS pseudo selectors to enhance the styling of the balance sheet. By targeting specific elements or states, such as hovering over an element with the mouse, you can apply custom styles to create interactive effects and visual feedback.
